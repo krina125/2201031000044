@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #f2f2f7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;    
+}
+
+.container {
+    position: relative;
+    left: 550px;
+    height: 890px;
+    width: 400px;
+    /* border: 1px solid black; */
+    background-color: #f2f2f7;
+}
+.tour{
+    height: 180px;
+    width: auto;
+    background-color: rgb(10, 10, 137);  
+}
+.p{
+    padding-top: 125px;
+    padding-left: 20px;
+    text-align: start;
+    font-size: 2.4rem;
+}
+.cname{
+    position: relative;
+    top: 100px;
+    left: 23px;
+    height: 45px;
+    width: 350px;
+    /* border: 1px solid black; */
+    border-radius: 12px;
+    border-style: none;
+    background-color: rgb(10, 10, 137);
+    text-align: left;
+    padding-left: 25px;
+}
+.c{
+    text-decoration: none;
+    font-size: 23px;
+}
+.div1{
+    margin-top: 140px;
+    margin-left: 48px;
+    display: flex;
+    flex-direction: column;
+}
+.city{
+    position: relative;
+    height: 45px;
+    width: 250px;
+    background-color: rgb(10, 10, 137) ;
+    border-radius: 12px;
+    border-style: none;
+    margin: 30px;
+    
+}
+.a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 21px;
+}
+#c1, #c2, #c3, #c4{
+    margin-top: 40px;
+}

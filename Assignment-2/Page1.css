@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: relative;
+    left: 550px;
+    height: 890px;
+    width:400px;
+    border: 1px solid black;
+    background-image: url("tower.jpg");
+    background-size: cover;
+    float: left;
+}
+.img{
+    height: 70px;
+    width:200px;
+    /* border: 1px solid black; */
+    margin-top: 150px;
+    margin-left: 110px;
+}
+h1{
+    color:#f2f2f7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.9rem;
+    text-align: center;
+    margin-top: 5px;
+}
+p{
+    color: #f2f2f7;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: 0.8rem;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 2px;
+}
+.button{
+    position: relative;
+    top: 575px;
+    left: 120px;
+}
+.start{
+    height: 40px;
+    width: 180px;
+    /* border: 1px solid none; */
+    background-color:rgb(10, 10, 137) ;
+    border-radius: 20px; 
+    border-style: none;
+}
+a{
+    text-decoration: none;
+    color: #f2f2f7;
+    font-size: 1.2rem;
+}
